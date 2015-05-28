@@ -3,14 +3,11 @@
 Propuestas de logo para Costa Rica JS    
 Enviar un Pull Request para proponer un nuevo logo.   
 
+## Sloth (#f3df49 and #2e2e2c)
+![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/sloths/CostaRicaJS-Sloth.png)
+
 ## Frog
 ![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/frog/logo_costaricajs.png)
-
-## Sloth
-![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/sloths/costaricajs-sloth-1.png)
-
-## Sloth 2
-![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/sloths/JS-LOGO-SLOTH1.jpg)
 
 ## Tipo Node
 ![](https://raw.githubusercontent.com/CostaRicaJS/costaricajs-logos/master/tipo-node/logoNode.jpg)
